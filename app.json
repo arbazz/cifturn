@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "CIF_Turn_In",
+    "slug": "CIF_Turn_In",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
